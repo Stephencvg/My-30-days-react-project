@@ -6,7 +6,7 @@
 
 body {
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
 }
 .nav--container {
   width: 100vw;
@@ -30,7 +30,7 @@ h1 {
 /* Main Style */
 
 .main--container {
-  width: 500px;
+  width: 400px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -70,9 +70,9 @@ h1 {
   margin: auto;
 }
 
-.flag {
-  width: 150%;
-}
+/* img {
+  width: 1em;
+} */
 
 .country--name {
   text-align: center;
@@ -80,4 +80,18 @@ h1 {
 
 .foot {
   text-align: center;
+}
+
+@media (width <= 500px ) {
+ .main--container {
+  display: block;
+  width: 300px;
+ }
+ .nav--container {
+  width: 100%;
+  /* background-color: yellow; */
+ }
+h1 {
+  font-size: 3rem;
+}
 }

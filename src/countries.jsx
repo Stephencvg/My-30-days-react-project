@@ -1125,7 +1125,7 @@ export const countriesData = [
     capital: 'Port Louis',
     languages: ['English'],
     population: 1262879,
-    flag: 'https://www.worldometers.info//img/flags/small/tn_mp-flag.gi',
+    flag: 'https://www.worldometers.info//img/flags/small/tn_mp-flag.gif',
     currency: 'Mauritian rupee',
   },
   // {
@@ -1141,7 +1141,7 @@ export const countriesData = [
     capital: 'Mexico City',
     languages: ['Spanish'],
     population: 122273473,
-    flag: 'https://www.worldometers.info//img/flags/small/tn_mx-flag.gi',
+    flag: 'https://www.worldometers.info//img/flags/small/tn_mx-flag.gif',
     currency: 'Mexican peso',
   },
   {
@@ -1485,7 +1485,7 @@ export const countriesData = [
     capital: 'Riyadh',
     languages: ['Arabic'],
     population: 32248200,
-    flag: 'https://www.worldometers.info//img/flags/small/tn_sa-flag.gi',
+    flag: 'https://www.worldometers.info//img/flags/small/tn_sa-flag.gif',
     currency: 'Saudi riyal',
   },
   {
@@ -1557,7 +1557,7 @@ export const countriesData = [
     capital: 'Mogadishu',
     languages: ['Somali', 'Arabic'],
     population: 11079000,
-    flag: 'https://www.worldometers.info//img/flags/small/tn_so.-flag.gif',
+    flag: 'https://www.worldometers.info//img/flags/small/tn_so-flag.gif',
     currency: 'Somali shilling',
   },
   {
