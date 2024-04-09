@@ -1053,7 +1053,7 @@ export const countriesData = [
     capital: 'Antananarivo',
     languages: ['French', 'Malagasy'],
     population: 22434363,
-    flag: 'https://www.worldometers.info//img/flags/small/tn_ma-flag.gi',
+    flag: 'https://www.worldometers.info//img/flags/small/tn_ma-flag.gif',
     currency: 'Malagasy ariary',
   },
   {
@@ -1325,7 +1325,7 @@ export const countriesData = [
     capital: 'Port Moresby',
     languages: ['English'],
     population: 8083700,
-    flag: 'https://www.worldometers.info//img/flags/small/tn_pp-flag.gi',
+    flag: 'https://www.worldometers.info//img/flags/small/tn_pp-flag.gif',
     currency: 'Papua New Guinean kina',
   },
   {
@@ -1397,7 +1397,7 @@ export const countriesData = [
     capital: 'Kigali',
     languages: ['Kinyarwanda', 'English', 'French'],
     population: 11553188,
-    flag: 'https://www.worldometers.info//img/flags/small/tn_rw-flag.gi',
+    flag: 'https://www.worldometers.info//img/flags/small/tn_rw-flag.gif',
     currency: 'Rwandan franc',
   },
   // {
