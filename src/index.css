@@ -88,10 +88,13 @@ h1 {
   width: 300px;
  }
  .nav--container {
-  width: 100%;
-  /* background-color: yellow; */
+  max-width: 100%;
+  padding-left: 1em;
  }
 h1 {
-  font-size: 3rem;
+  font-size: 2rem;
+} 
+h2 {
+  font-size: 1.5rem;
 }
 }
