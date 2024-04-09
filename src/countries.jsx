@@ -756,7 +756,7 @@ export const countriesData = [
     capital: 'Conakry',
     languages: ['French', 'Fula'],
     population: 12947000,
-    flag: 'https://www.worldometers.info//img/flags/small/tn_gv-flag.gi',
+    flag: 'https://www.worldometers.info//img/flags/small/tn_gv-flag.gif',
     currency: 'Guinean franc',
   },
   {
